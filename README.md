@@ -176,4 +176,5 @@ npm run build
 1. **SMS OTP Gateway:** In Milestone 1, the "Get Best Quote" button opens an institutional quotation guidance modal. Direct SMS OTP delivery is architected in [`docs/future-roadmap.md`](file:///c:/Users/HEMANT%20GUPTA/Documents/B2B/docs/future-roadmap.md) and will be implemented once the client selects an SMS provider.
 2. **Image CDN:** Images are served directly via Supabase Storage with Next.js image optimization. Cloudinary is not used in this milestone.
 #   b 2 b  
+ #   b 2 b  
  
