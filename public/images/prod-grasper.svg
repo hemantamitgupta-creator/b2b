@@ -1,0 +1,23 @@
+<svg width="450" height="340" viewBox="0 0 450 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="450" height="340" fill="#FFFFFF" />
+    <rect x="12" y="12" width="426" height="316" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+    <g transform="translate(45, 30)">
+      
+    <g stroke="#006061" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="40" cy="150" r="20" stroke="#006061" stroke-width="3.5" fill="#F0FDFA" />
+      <circle cx="40" cy="80" r="20" stroke="#006061" stroke-width="3.5" fill="#F0FDFA" />
+      <path d="M55 135 L90 115 L55 95" stroke-width="3.5" />
+      <circle cx="95" cy="115" r="12" fill="#0D9488" />
+      <line x1="108" y1="115" x2="305" y2="115" stroke="#334155" stroke-width="6" />
+      <!-- Cross-serrated Maryland Jaws -->
+      <path d="M305 114 Q325 106 345 100" stroke="#006061" stroke-width="4" fill="none" />
+      <path d="M305 116 Q325 124 345 130" stroke="#006061" stroke-width="4" fill="none" />
+    </g>
+  
+    </g>
+    <!-- Brand badge -->
+    <rect x="25" y="270" width="400" height="42" rx="6" fill="#F1F5F9" />
+    <text x="38" y="295" fill="#006061" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="800">MARYLAND DISSECTING LAPAROSCOPIC GRASPER</text>
+    <text x="38" y="306" fill="#64748B" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="600">5mm Shaft · Curved Cross-Serrated Jaws · 10kV Insulated</text>
+    <text x="410" y="295" text-anchor="end" fill="#0D9488" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="800">KRAFT SURGICALS</text>
+  </svg>

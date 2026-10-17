@@ -1,0 +1,17 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="80" cy="80" r="76" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+    <circle cx="80" cy="80" r="68" fill="#FFFFFF" />
+    <g transform="translate(40, 40)">
+      
+    <!-- Equipment Tower Stack -->
+    <rect x="14" y="10" width="52" height="16" rx="3" fill="#006061" />
+    <circle cx="24" cy="18" r="3" fill="#5EEAD4" />
+    <rect x="14" y="30" width="52" height="18" rx="3" fill="#1E293B" />
+    <rect x="22" y="34" width="22" height="10" fill="#0F172A" rx="2" />
+    <rect x="14" y="52" width="52" height="18" rx="3" fill="#334155" />
+    <circle cx="24" cy="61" r="3" fill="#EAB308" />
+    <circle cx="34" cy="61" r="3" fill="#22C55E" />
+  
+    </g>
+    <circle cx="80" cy="80" r="70" stroke="#006061" stroke-width="2" stroke-opacity="0.2" fill="none" />
+  </svg>

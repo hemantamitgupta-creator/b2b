@@ -1,0 +1,28 @@
+<svg width="450" height="340" viewBox="0 0 450 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="450" height="340" fill="#FFFFFF" />
+    <rect x="12" y="12" width="426" height="316" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+    <g transform="translate(45, 30)">
+      
+    <g stroke="#006061" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+      <!-- Finger Rings -->
+      <circle cx="45" cy="70" r="18" fill="#F8FAFC" />
+      <circle cx="45" cy="150" r="18" fill="#F8FAFC" />
+      <!-- Ratchet lock -->
+      <rect x="55" y="100" width="15" height="20" rx="2" fill="#E2E8F0" stroke="#006061" stroke-width="2" />
+      <!-- Shanks crossing at box lock -->
+      <path d="M60 80 L140 110" />
+      <path d="M60 140 L140 110" />
+      <circle cx="140" cy="110" r="7" fill="#0D9488" />
+      <!-- Angled 60 deg DeBakey jaws with teeth -->
+      <path d="M140 110 L240 110 L290 70" stroke-width="4" />
+      <path d="M140 110 L240 110 L290 80" stroke-width="4" />
+      <line x1="245" y1="75" x2="285" y2="75" stroke="#CA8A04" stroke-width="2" stroke-dasharray="2 2" />
+    </g>
+  
+    </g>
+    <!-- Brand badge -->
+    <rect x="25" y="270" width="400" height="42" rx="6" fill="#F1F5F9" />
+    <text x="38" y="295" fill="#006061" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="800">DEBAKEY ATRAUMATIC VASCULAR CLAMP</text>
+    <text x="38" y="306" fill="#64748B" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="600">60° Angled Jaws · Atraumatic Longitudinal Teeth · 195mm Length</text>
+    <text x="410" y="295" text-anchor="end" fill="#0D9488" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="800">KRAFT SURGICALS</text>
+  </svg>

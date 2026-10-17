@@ -1,0 +1,18 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="80" cy="80" r="76" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+    <circle cx="80" cy="80" r="68" fill="#FFFFFF" />
+    <g transform="translate(40, 40)">
+      
+    <!-- 4K Camera Console & Optics -->
+    <rect x="6" y="18" width="68" height="42" rx="6" fill="#006061" />
+    <rect x="12" y="24" width="40" height="30" rx="3" fill="#042F2E" />
+    <circle cx="32" cy="39" r="10" fill="#0D9488" />
+    <circle cx="32" cy="39" r="5" fill="#5EEAD4" />
+    <rect x="58" y="26" width="10" height="4" rx="2" fill="#FDE047" />
+    <rect x="58" y="34" width="10" height="4" rx="2" fill="#5EEAD4" />
+    <rect x="58" y="42" width="10" height="4" rx="2" fill="#CBD5E1" />
+    <path d="M40 50 L66 66 L72 60" stroke="#0D9488" stroke-width="3" stroke-linecap="round" fill="none" />
+  
+    </g>
+    <circle cx="80" cy="80" r="70" stroke="#006061" stroke-width="2" stroke-opacity="0.2" fill="none" />
+  </svg>

@@ -1,0 +1,19 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="80" cy="80" r="76" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+    <circle cx="80" cy="80" r="68" fill="#FFFFFF" />
+    <g transform="translate(40, 40)">
+      
+    <!-- Crossed laparoscopic instruments -->
+    <g stroke="#006061" stroke-width="3" stroke-linecap="round">
+      <line x1="12" y1="68" x2="68" y2="12" />
+      <line x1="12" y1="12" x2="68" y2="68" />
+      <circle cx="12" cy="68" r="6" stroke="#006061" stroke-width="2.5" fill="#F0FDFA" />
+      <circle cx="68" cy="68" r="6" stroke="#006061" stroke-width="2.5" fill="#F0FDFA" />
+      <path d="M64 8 L72 16" />
+      <path d="M8 64 L16 72" />
+      <circle cx="40" cy="40" r="4" fill="#0D9488" stroke="none" />
+    </g>
+  
+    </g>
+    <circle cx="80" cy="80" r="70" stroke="#006061" stroke-width="2" stroke-opacity="0.2" fill="none" />
+  </svg>

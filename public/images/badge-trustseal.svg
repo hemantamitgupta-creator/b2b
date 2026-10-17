@@ -1,0 +1,8 @@
+<svg width="86" height="56" viewBox="0 0 86 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M43 2 L68 10 V26 C68 40 43 52 43 52 C43 52 18 40 18 26 V10 L43 2 Z" fill="#FBBF24" stroke="#D97706" stroke-width="1.5" />
+  <path d="M43 5 L65 12 V25 C65 37 43 48 43 48 C43 48 21 37 21 25 V12 L43 5 Z" fill="#F59E0B" />
+  <!-- Red Ribbon Banner -->
+  <rect x="6" y="20" width="74" height="14" rx="3" fill="#DC2626" />
+  <text x="43" y="29.5" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, -apple-system, sans-serif" font-size="8.5" font-weight="900" letter-spacing="0.5">TRUST SEAL</text>
+  <text x="43" y="44" text-anchor="middle" fill="#78350F" font-family="system-ui, -apple-system, sans-serif" font-size="7" font-weight="800">indiamart</text>
+</svg>

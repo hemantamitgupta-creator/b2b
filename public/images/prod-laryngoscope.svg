@@ -1,0 +1,26 @@
+<svg width="450" height="340" viewBox="0 0 450 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="450" height="340" fill="#FFFFFF" />
+    <rect x="12" y="12" width="426" height="316" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+    <g transform="translate(45, 30)">
+      
+    <!-- Knurled Battery Handle -->
+    <rect x="30" y="90" width="140" height="40" rx="8" fill="#475569" stroke="#006061" stroke-width="3" />
+    <line x1="45" y1="90" x2="45" y2="130" stroke="#94A3B8" stroke-dasharray="2 2" stroke-width="2" />
+    <line x1="70" y1="90" x2="70" y2="130" stroke="#94A3B8" stroke-dasharray="2 2" stroke-width="2" />
+    <line x1="95" y1="90" x2="95" y2="130" stroke="#94A3B8" stroke-dasharray="2 2" stroke-width="2" />
+    <line x1="120" y1="90" x2="120" y2="130" stroke="#94A3B8" stroke-dasharray="2 2" stroke-width="2" />
+    <!-- Green System Ring Indicator -->
+    <circle cx="170" cy="110" r="8" fill="#22C55E" />
+    <!-- Curved Macintosh Blade -->
+    <path d="M170 110 C210 110 270 90 320 60 C325 55 330 50 335 45" stroke="#CBD5E1" stroke-width="12" stroke-linecap="round" fill="none" />
+    <path d="M170 110 C210 110 270 90 320 60 C325 55 330 50 335 45" stroke="#006061" stroke-width="2" fill="none" />
+    <!-- Fibre optic green beam -->
+    <circle cx="330" cy="50" r="5" fill="#4ADE80" />
+  
+    </g>
+    <!-- Brand badge -->
+    <rect x="25" y="270" width="400" height="42" rx="6" fill="#F1F5F9" />
+    <text x="38" y="295" fill="#006061" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="800">FIBRE OPTIC LARYNGOSCOPE WITH 4 MACINTOSH BLADES</text>
+    <text x="38" y="306" fill="#64748B" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="600">Cool Daylight LED Illumination · ISO 7376-3 · Macintosh #1, #2, #3, #4</text>
+    <text x="410" y="295" text-anchor="end" fill="#0D9488" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="800">KRAFT SURGICALS</text>
+  </svg>

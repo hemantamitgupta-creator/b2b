@@ -1,0 +1,19 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F8FAFC" />
+  <rect x="15" y="15" width="370" height="270" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+  <g transform="translate(45, 110)">
+    <!-- Stainless steel Cystoscope Sheath -->
+    <line x1="30" y1="50" x2="280" y2="50" stroke="#64748B" stroke-width="8" stroke-linecap="round" />
+    <line x1="30" y1="50" x2="280" y2="50" stroke="#E2E8F0" stroke-width="3" stroke-linecap="round" />
+    <!-- Stopcock valves with orange handles -->
+    <line x1="70" y1="50" x2="70" y2="15" stroke="#475569" stroke-width="6" />
+    <rect x="62" y="8" width="16" height="8" rx="2" fill="#EA580C" />
+    <line x1="110" y1="50" x2="110" y2="15" stroke="#475569" stroke-width="6" />
+    <rect x="102" y="8" width="16" height="8" rx="2" fill="#EA580C" />
+    <!-- Proximal Lock Funnel -->
+    <path d="M30 40 L30 60 L10 68 L10 32 Z" fill="#94A3B8" stroke="#475569" stroke-width="2" />
+    <!-- Distal Bevel -->
+    <path d="M280 46 L292 50 L280 54 Z" fill="#006061" />
+  </g>
+  <text x="200" y="240" text-anchor="middle" fill="#006061" font-family="system-ui, sans-serif" font-size="12" font-weight="bold" letter-spacing="0.5">CYSTOSCOPE SHEATH 24 Fr / 30° BRIDGE</text>
+</svg>

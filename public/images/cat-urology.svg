@@ -1,0 +1,22 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="80" cy="80" r="76" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+    <circle cx="80" cy="80" r="68" fill="#FFFFFF" />
+    <g transform="translate(40, 40)">
+      
+    <!-- Cystoscope Sheath & Stopcocks -->
+    <g stroke="#006061" stroke-width="3" stroke-linecap="round">
+      <line x1="12" y1="42" x2="68" y2="42" />
+      <!-- Side Stopcocks -->
+      <line x1="28" y1="42" x2="28" y2="22" />
+      <circle cx="28" cy="20" r="4" fill="#F97316" stroke="#C2410C" stroke-width="1.5" />
+      <line x1="44" y1="42" x2="44" y2="22" />
+      <circle cx="44" cy="20" r="4" fill="#F97316" stroke="#C2410C" stroke-width="1.5" />
+      <!-- Working Element Funnel -->
+      <path d="M12 36 L12 48 L6 52 L6 32 Z" fill="#CBD5E1" stroke="#64748B" stroke-width="1.5" />
+      <!-- Beveled tip -->
+      <path d="M68 40 L74 42 L68 44" fill="#0D9488" />
+    </g>
+  
+    </g>
+    <circle cx="80" cy="80" r="70" stroke="#006061" stroke-width="2" stroke-opacity="0.2" fill="none" />
+  </svg>

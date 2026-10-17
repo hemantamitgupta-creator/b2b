@@ -1,0 +1,26 @@
+<svg width="450" height="340" viewBox="0 0 450 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="450" height="340" fill="#FFFFFF" />
+    <rect x="12" y="12" width="426" height="316" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+    <g transform="translate(45, 30)">
+      
+    <g stroke="#006061" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <!-- Double Action compound linkages -->
+      <path d="M40 70 L90 100 L160 100 L250 90 L310 90" stroke-width="4.5" />
+      <path d="M40 150 L90 120 L160 120 L250 130 L310 130" stroke-width="4.5" />
+      <!-- Pivot joints -->
+      <circle cx="90" cy="110" r="6" fill="#0D9488" />
+      <circle cx="160" cy="110" r="6" fill="#0D9488" />
+      <circle cx="250" cy="110" r="6" fill="#0D9488" />
+      <!-- Leaf Springs -->
+      <path d="M60 90 Q100 110 60 130" stroke="#CA8A04" stroke-width="2.5" fill="none" />
+      <!-- Heavy Jaw scoop -->
+      <path d="M310 90 C335 90 345 100 345 110 C345 120 335 130 310 130 Z" fill="#CBD5E1" stroke="#006061" stroke-width="3" />
+    </g>
+  
+    </g>
+    <!-- Brand badge -->
+    <rect x="25" y="270" width="400" height="42" rx="6" fill="#F1F5F9" />
+    <text x="38" y="295" fill="#006061" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="800">STILLE-LUER DOUBLE-ACTION BONE RONGEUR</text>
+    <text x="38" y="306" fill="#64748B" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="600">Compound Lever Spring Action · 6x15mm Curved Scoop · 220mm Length</text>
+    <text x="410" y="295" text-anchor="end" fill="#0D9488" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="800">KRAFT SURGICALS</text>
+  </svg>

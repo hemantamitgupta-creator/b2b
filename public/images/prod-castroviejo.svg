@@ -1,0 +1,24 @@
+<svg width="450" height="340" viewBox="0 0 450 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="450" height="340" fill="#FFFFFF" />
+    <rect x="12" y="12" width="426" height="316" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+    <g transform="translate(45, 30)">
+      
+    <g stroke="#006061" stroke-width="3" stroke-linecap="round">
+      <path d="M35 110 Q70 65 140 75 L280 100" stroke-width="4" />
+      <path d="M35 110 Q70 155 140 145 L280 120" stroke-width="4" />
+      <!-- Cross link leaf spring -->
+      <path d="M70 90 Q100 110 70 130" stroke="#EAB308" stroke-width="3" fill="none" />
+      <!-- Gold plated ring markers -->
+      <rect x="150" y="70" width="20" height="10" rx="3" fill="#FDE047" stroke="#CA8A04" />
+      <rect x="150" y="140" width="20" height="10" rx="3" fill="#FDE047" stroke="#CA8A04" />
+      <!-- TC micro jaws -->
+      <rect x="280" y="103" width="35" height="14" rx="2" fill="#EAB308" stroke="#CA8A04" stroke-width="2" />
+    </g>
+  
+    </g>
+    <!-- Brand badge -->
+    <rect x="25" y="270" width="400" height="42" rx="6" fill="#F1F5F9" />
+    <text x="38" y="295" fill="#006061" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="800">CASTROVIEJO MICRO NEEDLE HOLDER TC</text>
+    <text x="38" y="306" fill="#64748B" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="600">Tungsten Carbide Pyramidal Inserts · Spring Action · 140/180mm</text>
+    <text x="410" y="295" text-anchor="end" fill="#0D9488" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="800">KRAFT SURGICALS</text>
+  </svg>

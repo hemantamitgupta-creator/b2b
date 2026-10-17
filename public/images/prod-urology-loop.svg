@@ -1,0 +1,22 @@
+<svg width="450" height="340" viewBox="0 0 450 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="450" height="340" fill="#FFFFFF" />
+    <rect x="12" y="12" width="426" height="316" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+    <g transform="translate(45, 30)">
+      
+    <g stroke="#006061" stroke-width="3" stroke-linecap="round">
+      <line x1="30" y1="110" x2="280" y2="110" stroke="#CA8A04" stroke-width="5" />
+      <!-- Golden active roller ball -->
+      <circle cx="300" cy="110" r="14" fill="#FACC15" stroke="#CA8A04" stroke-width="3" />
+      <!-- Insulator Sleeve -->
+      <rect x="70" y="103" width="170" height="14" rx="4" fill="#006061" />
+      <!-- Proximal electrical contact plug -->
+      <rect x="30" y="102" width="40" height="16" rx="2" fill="#334155" stroke="#CBD5E1" />
+    </g>
+  
+    </g>
+    <!-- Brand badge -->
+    <rect x="25" y="270" width="400" height="42" rx="6" fill="#F1F5F9" />
+    <text x="38" y="295" fill="#006061" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="800">BALL LOOPS UROLOGY RESECTOSCOPE ELECTRODE</text>
+    <text x="38" y="306" fill="#64748B" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="600">24 Fr / 26 Fr Compatible · 3.0mm & 5.0mm Roller · Monopolar Coagulation</text>
+    <text x="410" y="295" text-anchor="end" fill="#0D9488" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="800">KRAFT SURGICALS</text>
+  </svg>

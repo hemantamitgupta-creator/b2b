@@ -1,0 +1,17 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="80" cy="80" r="76" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2" />
+    <circle cx="80" cy="80" r="68" fill="#FFFFFF" />
+    <g transform="translate(40, 40)">
+      
+    <!-- High-res Medical Monitor -->
+    <rect x="10" y="12" width="60" height="42" rx="4" fill="#0F172A" stroke="#006061" stroke-width="2" />
+    <rect x="14" y="16" width="52" height="34" fill="#042F2E" />
+    <!-- Endoscopy screen display -->
+    <circle cx="40" cy="33" r="11" fill="#006061" />
+    <circle cx="40" cy="33" r="6" fill="#14B8A6" />
+    <rect x="36" y="54" width="8" height="10" fill="#475569" />
+    <rect x="26" y="64" width="28" height="4" rx="2" fill="#334155" />
+  
+    </g>
+    <circle cx="80" cy="80" r="70" stroke="#006061" stroke-width="2" stroke-opacity="0.2" fill="none" />
+  </svg>

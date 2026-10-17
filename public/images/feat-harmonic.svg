@@ -1,0 +1,22 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F8FAFC" />
+  <rect x="15" y="15" width="370" height="270" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+  <!-- Sterile Packing blister outline -->
+  <rect x="35" y="35" width="330" height="230" rx="12" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="2" stroke-dasharray="4 4" />
+  <g transform="translate(60, 75)">
+    <!-- Pistol Grip Handle -->
+    <rect x="20" y="80" width="35" height="55" rx="8" fill="#334155" />
+    <rect x="25" y="90" width="25" height="20" rx="4" fill="#006061" />
+    <path d="M35 50 L55 50 L55 80 L35 80 Z" fill="#64748B" />
+    <!-- Rotating Knob -->
+    <circle cx="55" cy="50" r="12" fill="#0D9488" stroke="#042F2E" stroke-width="2" />
+    <!-- Long Insulated 36cm Shaft -->
+    <rect x="55" y="47" width="190" height="6" rx="2" fill="#CBD5E1" stroke="#94A3B8" stroke-width="1" />
+    <!-- Curved Shear Jaw Tip -->
+    <path d="M245 46 Q260 45 268 40" stroke="#006061" stroke-width="3" stroke-linecap="round" fill="none" />
+    <path d="M245 52 Q260 52 266 58" stroke="#475569" stroke-width="2.5" stroke-linecap="round" fill="none" />
+    <!-- Brand badge -->
+    <rect x="75" y="70" width="100" height="22" rx="4" fill="#FFFFFF" stroke="#E2E8F0" />
+    <text x="125" y="85" text-anchor="middle" fill="#006061" font-family="system-ui, sans-serif" font-size="10" font-weight="bold">HARMONIC ACE</text>
+  </g>
+</svg>

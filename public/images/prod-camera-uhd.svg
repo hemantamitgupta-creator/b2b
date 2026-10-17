@@ -1,0 +1,22 @@
+<svg width="450" height="340" viewBox="0 0 450 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="450" height="340" fill="#FFFFFF" />
+    <rect x="12" y="12" width="426" height="316" rx="10" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1.5" />
+    <g transform="translate(45, 30)">
+      
+    <rect x="15" y="25" width="330" height="180" rx="10" fill="#006061" stroke="#042F2E" stroke-width="2" />
+    <rect x="35" y="45" width="180" height="140" rx="6" fill="#042F2E" />
+    <text x="125" y="115" text-anchor="middle" fill="#5EEAD4" font-family="system-ui, sans-serif" font-size="20" font-weight="900">UHD MEDICAL</text>
+    <text x="125" y="135" text-anchor="middle" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10">60 FPS AUTO BALANCE</text>
+    <circle cx="265" cy="70" r="14" fill="#0D9488" stroke="#5EEAD4" stroke-width="2" />
+    <rect x="235" y="110" width="60" height="18" rx="4" fill="#1E293B" />
+    <text x="265" y="122" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="9" font-weight="bold">SDI OUT</text>
+    <circle cx="250" cy="155" r="8" fill="#FDE047" />
+    <circle cx="280" cy="155" r="8" fill="#22C55E" />
+  
+    </g>
+    <!-- Brand badge -->
+    <rect x="25" y="270" width="400" height="42" rx="6" fill="#F1F5F9" />
+    <text x="38" y="295" fill="#006061" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="800">ULTRA HD SURGICAL CAMERA SYSTEM</text>
+    <text x="38" y="306" fill="#64748B" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="600">CMOS Sensor · DVI / HDMI / 12G-SDI · Multi-Specialty ENT & Laparoscopy</text>
+    <text x="410" y="295" text-anchor="end" fill="#0D9488" font-family="system-ui, -apple-system, sans-serif" font-size="10" font-weight="800">KRAFT SURGICALS</text>
+  </svg>
